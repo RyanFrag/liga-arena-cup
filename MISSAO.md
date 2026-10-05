@@ -1,7 +1,7 @@
-# Missão 06 · Arena Cup
+# Projeto 06 · Arena Cup
 
-## Lore
-Campeonato interno de e-sports / jogos da turma. Inscrição por modalidade.
+## Contexto
+Campeonato interno de jogos da turma. Inscrição por modalidade.
 
 ## Itens sugeridos
 | Modalidade | Vagas | Taxa |
@@ -12,12 +12,12 @@ Campeonato interno de e-sports / jogos da turma. Inscrição por modalidade.
 | Just Dance | 6 | R$ 5 |
 | Super Smash | 0 | R$ 10 (lotado) |
 
-## Boss (obrigatório)
+## Regra do tema (obrigatória)
 Não inscreve em modalidade **lotada** (vagas 0). Ao inscrever, **reduz 1 vaga** na tela.
 Mínimo: pelo menos 1 inscrição salva no Firestore.
 
-## Cofre (Firestore)
+## Firestore
 Coleção: `inscricoes_arena`.
 
-## Rank sugerido da guilda
-Cor: roxo neon suave (sem exagero) / escuro
+## Visual sugerido
+Cor: roxo suave / escuro
